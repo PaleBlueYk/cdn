@@ -1,0 +1,5 @@
+# production
+/.vscode
+
+# misc
+.DS_Store
